@@ -113,9 +113,7 @@ $urlError = $_GET['error'] ?? '';
     </div>
   </div>
 
-  <p style="color:#475569;font-size:12px;text-align:center;margin-top:16px;">
-    First time? Run <a href="/student-dashboard/setup.php" style="color:var(--accent-light)">setup.php</a> to initialize the database.
-  </p>
+
 </div>
 
 </body>
